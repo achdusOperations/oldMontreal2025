@@ -7,7 +7,7 @@
 /*header*/
 /*donate button*/
 .fs-header-top .fs-top-tools .fs-btn{
-    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%);
+    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%) !important;
     border-radius: 25px !important;
 }
 a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
@@ -104,7 +104,7 @@ background:#FFF !important ;
 }
 .fs-goal-graph{
 
-    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%);
+    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%) !important;
    
 }
 /*center goal*/
@@ -130,7 +130,7 @@ background:#FFF !important ;
 
 /*countdown*/
 .fs-countdown {
-    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 100%);
+    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 100%) !important;
     }
     .fs-countdown-number, .fs-countdown-sep{
       color:#fff !important;
@@ -161,7 +161,7 @@ background:#FFF !important ;
     /*section next to countdown*/
    .fs-donate {
    
-    background: linear-gradient(90deg,rgba(197, 141, 214, 1) 0%, rgba(131, 146, 227, 1) 100%);
+    background: linear-gradient(90deg,rgba(197, 141, 214, 1) 0%, rgba(131, 146, 227, 1) 100%) !important;
     }
 
 .fs-countdowndonate .fs-countdown, .fs-countdowndonate .fs-donate{
@@ -204,12 +204,12 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 /*"Our donors"*/
 .donar-section{
   
-    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%);
+    background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%) !important;
 }
     .fs-partners>div{
         border-top:6px solid #fff !important;
         
-        background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%);
+        background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%) !important;
         border-radius:25px !important;
     }       
     .fs-partners .fs-btn{
