@@ -93,10 +93,10 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 background:#FFF !important ;
 }
 .fs-goal .fs-goal-text .fs-goal-amount,.col-md-6.text-xs-center.text-md-right.fs-goal-text, .fs-goal .fs-goal-text strong{
-    color:#fe3f38 !important;
+    color:#27365b !important;
 }
 .fs-goal .fs-goal-graph-container .fs-goal-graph-text span{
-    color:#F6127D !important;
+    color:#27365b !important;
 }
 /*goal meter  filled and then not filled*/
 .fs-goal-graph-fill{
