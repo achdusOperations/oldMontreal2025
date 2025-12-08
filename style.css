@@ -108,7 +108,7 @@ background:#FFF !important ;
    
 }
 /*center goal*/
-/*@media (min-width:992px){
+@media (min-width:992px){
     .fs-goal .fs-goal-text{
     display: flex !important;
     justify-content: center !important;
