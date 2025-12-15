@@ -321,3 +321,52 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     display:none !important;
     }
+
+    /*teams*/
+    /*name of team in donor tag*/
+    .team-up span{
+        color:#f5de68 !important;
+    }
+
+/*team section*/
+.donar-section .right-filters-data .form-control{
+    border-radius:25px !important;
+}
+.donar-section .right-filters-data .input-group{
+    border-radius:35px !important;
+}
+.right-filters-data .input-group .input-group-addon{
+    border-radius: 30px !important;
+}
+    .team-members .team-users{
+        border-radius:60px !important;
+    }
+   
+    /*left button*/
+    a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
+        background:#f5de68 !important;
+        border-radius: 25px !important;
+    }
+    /*right button*/
+    a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
+        background: #16396a !important;
+        border-radius: 25px !important;
+    }
+    /*filler*/
+    .progress-flex .progress .progress-bar{
+        background:#f5de68 !important;
+    }
+    
+/*team page*/
+
+    /*button*/
+    .team-donate-btn.btn.team-tab.js-team-open-donate.common-donate{
+        border-radius: 25px !important;
+    }    
+    /*tag with amount*/
+    .donate-members .donates_user .donate-A{
+        background:#f5de68 !important;
+    }
+    .donate-triangle{
+       border-right: 26px solid #f5de68 !important;
+    }
