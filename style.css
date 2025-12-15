@@ -337,7 +337,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         color:#8392e3 !important;
     }
     /*be the first button*/
-    .fs-btn:active, .fs-btn:focus, .fs-btn:hover{
+    #temporaryDonateButton{
         background:#fff !important;
         border-radius: 25px !important;
         color:#353a59 !important;
