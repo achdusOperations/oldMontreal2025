@@ -349,13 +349,15 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
    
     /*left button*/
     a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
-        background:#f5de68 !important;
+        background:#fff !important;
         border-radius: 25px !important;
+        color:#353a59 !important;
     }
     /*right button*/
     a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
-        background: #16396a !important;
+        background:#fff !important;
         border-radius: 25px !important;
+        color:#353a59 !important;
     }
     /*filler*/
     .progress-flex .progress .progress-bar{
