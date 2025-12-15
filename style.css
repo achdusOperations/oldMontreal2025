@@ -332,6 +332,10 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
         border-bottom: 3px solid #fff !important;
     }
+     /*name of team in donor tag*/
+     .team-up span{
+        color:#8392e3 !important;
+    }
 
    
     /*left button*/
