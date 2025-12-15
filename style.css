@@ -323,29 +323,13 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     }
 
     /*teams*/
-    /*name of team in donor tag*/
-    .team-up span{
-        color:#f5de68 !important;
-    }
 
 /*donor,teams and about*/
     .donar-section .nav-tabs .nav-item.active .nav-link{
         color: #fff !important;;
         border-bottom: 3px solid #fff !important;
     }
-/*team section*/
-.donar-section .right-filters-data .form-control{
-    border-radius:25px !important;
-}
-.donar-section .right-filters-data .input-group{
-    border-radius:35px !important;
-}
-.right-filters-data .input-group .input-group-addon{
-    border-radius: 30px !important;
-}
-    .team-members .team-users{
-        border-radius:60px !important;
-    }
+
    
     /*left button*/
     a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
@@ -378,15 +362,9 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         border-radius: 25px !important;
         background: linear-gradient(90deg,rgba(235, 95, 168, 1) 0%, rgba(249, 185, 183, 1) 33%, rgba(197, 141, 214, 1) 66%, rgba(131, 146, 227, 1) 100%) !important;
     }
-
+/*checkmark*/
+.progress-flex .check-mark{
+    color:#8392e3 !important;
+}
     
-    .team-donate-btn.btn.team-tab.js-team-open-donate.common-donate{
-        border-radius: 25px !important;
-    }    
-    /*tag with amount*/
-    .donate-members .donates_user .donate-A{
-        background:#f5de68 !important;
-    }
-    .donate-triangle{
-       border-right: 26px solid #f5de68 !important;
-    }
+    
