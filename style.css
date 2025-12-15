@@ -325,7 +325,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     /*teams*/
 
 /*donor,teams and about*/
-    .donar-section .nav-tabs .nav-item.active .nav-link{
+    .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
         color: #fff !important;;
         border-bottom: 3px solid #fff !important;
     }
