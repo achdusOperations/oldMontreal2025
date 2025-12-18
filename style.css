@@ -384,6 +384,9 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     
 
     /*media button causing problems*/
+    i.fas.fa-play-circle{
+        font-size:40px !important;
+    }
 @media screen and (max-width: 700px) {
 i.fas.fa-play-circle{
     font-size:30px !important;
