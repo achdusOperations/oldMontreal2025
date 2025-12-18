@@ -343,6 +343,11 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         color:#353a59 !important;
     }
 
+/*media button causing problems*/
+i.fas.fa-play-circle{
+    font-size:40px !important;
+}
+
    
     /*left button*/
     a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
