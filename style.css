@@ -388,4 +388,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 i.fas.fa-play-circle{
     font-size:40px !important;
 }
+.donate-button .donate-button-text{
+    padding:2px !important;
+}
 }
